@@ -9,5 +9,5 @@ Mongodb cacti monitor plugins.
 How to install
 ==============
 1. perl file should be find in <path_to_cacti>/scripts/
-2. xml file can be imported from cacti web interface(console -> Import/Export -> Export Templates)
+2. xml file can be imported from cacti web interface(console -> Import/Export -> Import Templates)
 
